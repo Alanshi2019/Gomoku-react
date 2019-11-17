@@ -9,7 +9,9 @@ The winner is the first player to get an unbroken row of five stones horizontall
 Tech Stack:
 
 React - Open-source JavaScript library providing a view for data rendered as HTML.
+
 Redux - a predictable state container for JavaScript apps.
+
 Styled Components - a way to write CSS that's scoped to a single component, and not leak to any other element in the page.
 
 
