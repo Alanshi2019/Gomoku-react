@@ -1,12 +1,12 @@
 
-Gomoku:
+## Gomoku
 
 Gomoku is an abstract strategy board game. Also called Gobang or Five in a Row, it is traditionally played with Go pieces (black and white stones) on a go board with 25x25 (15x15) intersections.
 
 The winner is the first player to get an unbroken row of five stones horizontally, vertically, or diagonally.
 
 
-Tech Stack:
+## Tech Stack
 
 React - Open-source JavaScript library providing a view for data rendered as HTML.
 
@@ -17,17 +17,17 @@ Styled Components - a way to write CSS that's scoped to a single component, and 
 
 
 
-Project structure:
+## Project structure:
 
 ![Project structure:](https://github.com/Alanshi2019/Gomoku-react/blob/master/img/imgTree.png)
 
 
-UI:
+## UI:
 
 ![UI:](https://github.com/Alanshi2019/Gomoku-react/blob/master/img/imgUI.png)
 
 
-CSS: Styled-components
+## CSS: Styled-components
 
 ![Style-components](https://github.com/Alanshi2019/Gomoku-react/blob/master/img/imgSC.png)
 
